@@ -70,7 +70,6 @@ export default function About() {
               className="w-full h-auto object-cover rounded-lg"
             />
           </div>
-
           {/* Third Block */}
           <div className="grid place-items-center h-full px-8 py-6 bg-[#ffffff6c] rounded-lg text-white transition-all duration-300 hover:scale-105">
             <h2 className="block text-4xl font-semibold leading-[1.3] text-center">
@@ -81,7 +80,6 @@ export default function About() {
               de la santé.
             </p>
           </div>
-
           {/* Fourth Block */}
           <div className="grid place-items-center h-full px-8 py-6 bg-[#ffffff6c] rounded-lg text-white transition-all duration-300 hover:scale-105">
             <h2 className="block text-4xl font-semibold leading-[1.3] text-center">
@@ -93,7 +91,6 @@ export default function About() {
             </p>
           </div>
         </div>
-
         {/* Mission Statement Section */}
         <div className="bg-transparent p-0 md:p-8 text-white mb-12">
           <Typography
@@ -112,7 +109,6 @@ export default function About() {
             besoin pour vivre en pleine santé.
           </p>
         </div>
-
         {/* Core Values Section */}
         <div className="bg-transparent p-0 md:p-8 text-white mb-12">
           <Typography
@@ -130,7 +126,6 @@ export default function About() {
             <li>Transparence et intégrité dans toutes nos démarches</li>
           </ul>
         </div>
-
         {/* Customer Testimonials Section */}
         <div className="bg-transparent p-0 md:p-8 text-white mb-12">
           <Typography
@@ -164,7 +159,6 @@ export default function About() {
             </div>
           </div>
         </div>
-
         {/* Outro Section */}
         <div className="mt-10 text-center italic text-lg text-white">
           <p>
